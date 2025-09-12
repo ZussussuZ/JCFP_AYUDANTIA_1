@@ -1,4 +1,4 @@
-#Materiales:
+# Materiales:
 
 X2 LEDS ROJOS
 X2 LEDS AZUL
@@ -14,13 +14,13 @@ CABLES PARA PROTOBOARD
 USBB A USB 2.0
 
 
-#PASOS DE ARMADO:
+# PASOS DE ARMADO:
 
 Instalamos los leds, boton y Resistencia
 ubicamos los cables como se ve en el diagrama
 copiamos y pegamos el codigo en Arduino IDE y compilar y probar
 
-#Referencias
+# Referencias
 
 pinmode:
 https://docs.arduino.cc/language-reference/en/functions/digital-io/pinMode/
